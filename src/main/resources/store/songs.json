@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Rock And Roll All Nite",
+    "artist": "KISS",
+    "duration": 169,
+    "album": "Dressed To Kill",
+    "genre": ROCK
+  },
+  {
+    "title": "Spread Your Wings",
+    "artist": "Queen",
+    "duration": 240,
+    "album": "News Of The World",
+    "genre": ROCK
+  }
+]
