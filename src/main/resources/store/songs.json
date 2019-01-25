@@ -12,5 +12,19 @@
     "duration": 240,
     "album": "News Of The World",
     "genre": ROCK
+  },
+  {
+    "title": "Gimme Shelter",
+    "artist": "The Rolling Stones",
+    "duration": 271,
+    "album": "Let It Bleed",
+    "genre": ROCK
+  },
+  {
+    "title": "American Girl",
+    "artist": "Tom Petty and the Heartbreakers",
+    "duration": 215,
+    "album": "Tom Petty and the Heartbreakers",
+    "genre": ROCK
   }
 ]
