@@ -3,11 +3,11 @@ A "proof of concept" music player application written in Java, utilizing JavaFX 
 
 This is what the JSON storage of a song looks like:
 
-'''  {
+```  {
     "title": "Rock And Roll All Nite",
     "artist": "KISS",
     "duration": 169,
     "album": "Dressed To Kill",
     "genre": ROCK
-  }'''
+  }```
 
