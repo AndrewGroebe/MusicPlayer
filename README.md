@@ -10,4 +10,5 @@ This is what the JSON storage of a song looks like:
     "album": "Dressed To Kill",
     "genre": ROCK
   }
-
+```
+Relevant resources are found using this information (mp3 file found by concatenating .mp3 on to the title)
