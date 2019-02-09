@@ -11,4 +11,4 @@ This is what the JSON storage of a song looks like:
     "genre": ROCK
   }
 ```
-Relevant resources are found using this information (mp3 file found by concatenating .mp3 on to the title)
+Relevant resources can be found using this information (mp3 file found by concatenating .mp3 on to the title)
