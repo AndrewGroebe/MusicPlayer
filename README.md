@@ -11,4 +11,6 @@ This is what the JSON storage of a song looks like:
     "genre": ROCK
   }
 ```
-Relevant resources can be found using this information (mp3 file found by concatenating .mp3 on to the title)
+Relevant resources can be found using this information (mp3 file found by concatenating .mp3 on to the title).
+
+This project will likely remain intentionally unfinished as it is merely proof of concept.
