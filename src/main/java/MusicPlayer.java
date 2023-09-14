@@ -16,10 +16,6 @@ import java.util.Arrays;
  */
 public final class MusicPlayer {
 
-    /**
-     * In accordance with the singleton design pattern, this object represents the only instance of this class to be used
-     * by other files.
-     */
     private static final MusicPlayer SINGLETON = new MusicPlayer();
 
     private final ArrayList<Song> songs = new ArrayList<Song>();
